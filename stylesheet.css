@@ -1,0 +1,26 @@
+body{
+  background: url("Appletun.png") no-repeat top; 
+  background-color: #11dcee;
+}
+
+h1{
+  color: rgb(0, 100, 0);
+  font-size: 50px;
+  text-align: center;
+}
+
+ul{
+  color: green;
+  line-height: 2;
+  outline-color: black;
+  outline-width: 20px;
+  outline-style: inset;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+b{
+  color: rgb(128, 128, 0);
+  font-size: 48px;
+  font-weight: bolder;
+}
